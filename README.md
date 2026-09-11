@@ -79,15 +79,6 @@ A carefully optimized collection of algorithmic solutions to Project Euler chall
 - Building production-grade data systems with focus on scalability and fault-tolerance
 - Exploring the intersection of classical AI and quantum computing
 
----
-
-## 📫 Let's Connect
-
-- **LinkedIn**: [Akella Anudeep](https://linkedin.com/in/yourprofile)
-- **Email**: [your.email@domain.com](mailto:your.email@domain.com)
-- **Portfolio**: [Your Website](https://yourwebsite.com)
-
-Feel free to explore my repositories, fork projects, and collaborate on interesting challenges. I'm always open to discussions about data science, AI applications, and optimized system design.
 
 ---
 
